@@ -1,23 +1,22 @@
 {
-    "name": "tibian/route-organizer",
+    "name": "orlserg/route-organizer",
     "description": "Route Organizer for Laravel",
     "keywords": ["routes", "organizer", "laravel"],
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michalis Giannas",
-            "email": "info@tibian.me",
-            "homepage": "https://tibian.me"
+            "name": "Orlov Sergey",
+            "email": "or-serg@yandex.ru"
         }
     ],
     "require": {
         "php": ">=5.5.9",
-        "symfony/finder": "^v3.1"
+        "": "^v3.4"
     },
     "autoload": {
         "psr-4": {
-            "TiBian\\RouteOrganizer\\": "src"
+            "Orlserg\\RouteOrganizer\\": "src"
         }
     }
 }
